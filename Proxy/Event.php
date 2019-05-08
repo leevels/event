@@ -18,12 +18,12 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Leevel\Event\Facade;
+namespace Leevel\Event\Proxy;
 
 use Leevel\Di\Container;
 
 /**
- * 门面 event.
+ * 代理 event.
  *
  * @author Xiangmin Liu <635750556@qq.com>
  *
